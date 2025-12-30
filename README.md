@@ -1,4 +1,5 @@
 Hi 👋🏻, I'm Shivam Rana
+
 👋 Introduction<br><br>🔭 I’m currently working on<br>Building reliable and scalable software solutions as a Software Developer, focusing on writing clean, maintainable code and solving real-world problems.<br><br>👯 I’m looking to collaborate on<br>Well-structured projects that value strong fundamentals, thoughtful design, and long-term stability—especially backend systems and enterprise applications.<br><br>🤝 I’m looking for help with<br>Improving system architecture, performance optimization, and adopting best practices that stand the test of time.<br><br>🌱 I’m currently learning<br>Advanced software design patterns, cloud-native development, and ways to write code that is both efficient and timeless.<br><br>💬 Ask me about<br>Application development, backend logic, clean coding practices, debugging, and turning business requirements into solid technical solutions.<br><br>⚡ Fun fact<br>I believe good software is built the old-fashioned way—through patience, discipline, and respect for fundamentals.
 
 
